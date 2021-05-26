@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @soft-boy
 - 👀 I’m interested in spirituality, music and travel
 - 🌱 I’m currently sharpening up my web dev skills
-- 💞️ I’m looking to collaborate on ... nothing (taking a solo path rn)
 - 📫 How to reach me: instagram.com/ericwaaaang
 
 <!---
