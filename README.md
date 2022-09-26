@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soft-boy
-- 👀 I’m interested in spirituality, music and travel
-- 🌱 I’m currently sharpening up my web dev skills
-- 📫 How to reach me: instagram.com/ericwaaaang
+- 👀 I’m interested in spirituality, art and travel
+-  I’m currently building magic hands
+- 📫 How to reach me: eric@magichands.dev
 
 <!---
 soft-boy/soft-boy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
