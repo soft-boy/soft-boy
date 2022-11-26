@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @soft-boy
 - 👀 I’m interested in spirituality, art and travel
--  I’m currently building magic hands
-- 📫 How to reach me: eric@magichands.dev
+-  I’m currently building: a breathwork app 💨
 
 <!---
 soft-boy/soft-boy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
